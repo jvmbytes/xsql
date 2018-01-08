@@ -1,6 +1,3 @@
-/**
- * Created By: Comwave Project Team Created Date: 2015年7月24日
- */
 package jtool.sql.imp;
 
 import org.slf4j.Logger;

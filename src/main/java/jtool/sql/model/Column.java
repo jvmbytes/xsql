@@ -1,6 +1,3 @@
-/**
- * Created By: Comwave Project Team Created Date: 2015年7月10日
- */
 package jtool.sql.model;
 
 /**

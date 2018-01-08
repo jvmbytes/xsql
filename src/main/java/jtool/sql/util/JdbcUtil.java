@@ -1,6 +1,3 @@
-/**
- * Created By: Comwave Project Team Created Date: 2015年7月24日
- */
 package jtool.sql.util;
 
 import java.sql.Connection;

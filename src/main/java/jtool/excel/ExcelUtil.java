@@ -1,6 +1,3 @@
-/**
- * Created By: Comwave Project Team Created Date: Aug 16, 2011 8:58:12 PM
- */
 package jtool.excel;
 
 import org.apache.commons.io.FilenameUtils;
