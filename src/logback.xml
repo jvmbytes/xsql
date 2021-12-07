@@ -5,9 +5,9 @@
 		<filter class="ch.qos.logback.classic.filter.ThresholdFilter">
 			<level>INFO</level>
 		</filter>
-		<file>/tmp/jtool_import.log</file>
+		<file>sql-exp-imp.log</file>
 		<rollingPolicy class="ch.qos.logback.core.rolling.FixedWindowRollingPolicy">
-			<fileNamePattern>/tmp/jtool_import.%i.log.zip</fileNamePattern>
+			<fileNamePattern>sql-exp-imp.%i.log.zip</fileNamePattern>
 			<minIndex>1</minIndex>
 			<maxIndex>100</maxIndex>
 		</rollingPolicy>
@@ -32,4 +32,4 @@
 		<appender-ref ref="stdout" /> <!-- comment this on production environment -->
 		<appender-ref ref="FILE" />
 	</root>
-</configuration> 
+</configuration>
