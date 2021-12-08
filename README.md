@@ -1,4 +1,5 @@
-# sql-exp-imp
-utility for exporting/importing sql
-- export to CSV/Excel
-- import from CSV/Excel
+# xsql
+utility for export/import sql,csv,excel
+
+- export to SQL/CSV/Excel
+- import from SQL/CSV/Excel
